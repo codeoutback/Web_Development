@@ -1,0 +1,71 @@
+.fa-utensils{
+    color: white;
+}
+
+
+.logo{
+    font-size: 42px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+    line-height: 35px;
+    background-color: #263238;
+    border: none;
+    color: white;
+}
+
+.navBar{
+    background-color: #263238;
+    position: relative;
+  }
+
+.dropbtn {
+    background-color: #263238;
+    color: white;
+    height: 75px;
+    font-size: 25px;
+    border: none;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    line-height: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #f1f1f1;
+   
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+ .dropdown:hover .dropdown-content {display: block;}
+
+ .buttons{
+     padding-top: 40px;
+ }
+
+ #butt1{
+     background-color: #263238;
+     color: white;
+ }
+
+ #butt2{
+    background-color: #263238;
+    color: white;
+}
+  
+  
